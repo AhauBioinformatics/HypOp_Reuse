@@ -27,7 +27,7 @@ pip install -r dependency.txt
 ```
 
 # Quick Start
-### Hypergraph MaxCut on CPU:
+### Hypergraph MaxCut on CPU
 
 ```bash
 conda activate environment_name
