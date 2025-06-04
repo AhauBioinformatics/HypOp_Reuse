@@ -1,0 +1,6 @@
+INFO:main:hyper_ba.txt:, running time: 2924.8194865882397, res: [-21799], res_th: [-21652], training_time: [2844.501634351909], mapping_time: [43.618373803794384]
+INFO:main:hyper_ws.txt:, running time: 1231.355344325304, res: [-26826], res_th: [-23675], training_time: [1145.8762578368187], mapping_time: [46.96533491462469]
+INFO:main:hyper_normal.txt:, running time: 1126.221351146698, res: [-26821], res_th: [-23399], training_time: [1040.880789205432], mapping_time: [47.108341723680496]
+INFO:main:hyper_uniform.txt:, running time: 3856.8735766261816, res: [-26347], res_th: [-17504], training_time: [3771.9164464101195], mapping_time: [47.26454026252031]
+INFO:main:hyper_exponential.txt:, running time: 738.3011407479644, res: [-21611], res_th: [-18035], training_time: [654.6508593931794], mapping_time: [46.69613216817379]
+INFO:main:hyper_er.txt:, running time: 1174.7366272807121, res: [-26272], res_th: [-23468], training_time: [1089.0979993194342], mapping_time: [47.45752550661564]

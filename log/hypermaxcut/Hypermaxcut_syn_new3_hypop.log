@@ -1,0 +1,6 @@
+INFO:main:Hyp_899_1316.txt:, running time: 25.18733340000017, res: [[-1266]], res_th: [[-1265]], res2: [], training_time: 23.520390400000224, mapping_time: 1.26529040000014
+INFO:main:Hyp_1792_2581.txt:, running time: 53.65506740000001, res: [[-2493]], res_th: [[-2486]], res2: [], training_time: 47.0002377, mapping_time: 4.725814700000001
+INFO:main:Hyp_2615_3860.txt:, running time: 77.2214513, res: [[-3714]], res_th: [[-3697]], res2: [], training_time: 62.3596224, mapping_time: 10.068690500000002
+INFO:main:Hyp_4436_6607.txt:, running time: 155.3734508, res: [[-6371]], res_th: [[-6353]], res2: [], training_time: 106.12201129999997, mapping_time: 29.293696699999998
+INFO:main:Hyp_6231_9220.txt:, running time: 260.5871591, res: [[-8914]], res_th: [[-8902]], res2: [], training_time: 150.31929359999998, mapping_time: 58.80693009999999
+INFO:main:Hyp_8858_13221.txt:, running time: 494.24897710000005, res: [[-12708]], res_th: [[-12669]], res2: [], training_time: 220.4398231, mapping_time: 120.1276233000001

@@ -1,0 +1,63 @@
+{
+    "data": "random_reg",
+    "mode": "maxclique",
+    "random_init": "none",
+    "transfer": false,
+    "initial_transfer": false,
+    "GD": false,
+    "mapping": "distribution",
+
+    "lr": 1e-3,
+    "epoch": 1e3,
+    "tol": 1e-1,
+    "logging_path": "log/maxclique.log",
+    "res_path": "res/maxclique.hdf5",
+    "folder_path": "data/maxclique_data/",
+
+    "plot_path": "res/plots/",
+    "model_save_path": "models/maxclique/",
+    "model_load_path": "models/maxclique/",
+    "N_realize": 1,
+    "Niter_h": 2000,
+    "t": 0.3,
+    "hyper": false,
+    "penalty": 0,
+    "patience": 50,
+    "load_G": false,
+    "boosting_mapping": 1,
+    "load best out": false,
+
+
+    "K": 10,
+    "Adam": false,
+    "minimum_good_samples": 4,
+    "random_portion": 0.6,
+    "local_portion": 0.2,
+    "cross_portion": 0.2,
+    "num_samples": 1,
+
+    "multi_gpu": 0,
+    "num_gpus": 1,
+    "test_multi_gpu": 0,
+
+    "coarsen":false,
+    "f_input":0,
+    "sparsify":0,
+    "sparsify_p":0.8,
+    "n_partitions":4,
+    "Att": false,
+    "load_best_out": false,
+    "partition_strategy": "original",
+    "fine_tuning": "SA",
+
+    "N_particles":1800,
+
+    "population_size": 100,
+    "n_parents": 50,
+    "crossover_rate": 0.7,
+    "mutation_rate": 0.01,
+    "N_generations": 20,
+
+    "N_ants":100,
+    "evaporation_rate":0.2
+}

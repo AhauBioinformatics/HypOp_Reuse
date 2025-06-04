@@ -1,0 +1,7 @@
+INFO:main:G_reg_1000_3.txt:, running time: 22.458850599999998, res: [-379], res_th: [0], training_time: [10.9112362], mapping_time: [11.4174377]
+INFO:main:G_reg_1500_3.txt:, running time: 39.3568618, res: [-557], res_th: [0], training_time: [13.612911599999997], mapping_time: [25.5701137]
+INFO:main:G_reg_2000_3.txt:, running time: 89.8168104, res: [-749], res_th: [-2], training_time: [16.336171399999998], mapping_time: [73.06281159999999]
+INFO:main:G_reg_2500_3.txt:, running time: 163.34585100000004, res: [-934], res_th: [-1], training_time: [86.0441414], mapping_time: [76.57138930000002]
+INFO:main:G_reg_3500_3.txt:, running time: 166.7252299, res: [-1310], res_th: [0], training_time: [32.39461869999997], mapping_time: [133.9733008]
+INFO:main:G_reg_4000_3.txt:, running time: 207.46749590000002, res: [-1493], res_th: [-1], training_time: [29.002602800000034], mapping_time: [178.1263131999999]
+INFO:main:G_reg_4500_3.txt:, running time: 348.58315619999996, res: [-1700], res_th: [-3], training_time: [115.90032729999996], mapping_time: [232.37970739999992]
