@@ -1,5 +1,6 @@
 # HypOp-Reuse
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+[![DOI](https://zenodo.org/badge/383825527.svg)](https://doi.org/10.5281/zenodo.17168913)
 
 ## Contents
 - [Overview](#overview)
